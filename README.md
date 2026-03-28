@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shhlok&label=Profile%20views&color=0e75b6&style=flat" alt="1shhlok" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1shhlok" alt="1shhlok" /></a> </p>
-
 - 🚀 I’m currently working on **developing skills**
 
 - 🌱 I’m currently learning **Web Development, DSA, CP and AI/ML**
